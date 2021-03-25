@@ -1,0 +1,8 @@
+Deployment ID:
+AKfycbwJ6WXXpj6yak2G1_cFRET4HCKYoEWpy12NGxMpNo8Kr95mv-ZCnAO_LrTQwmCXxL4h
+
+URL:
+https://script.google.com/macros/s/AKfycbwJ6WXXpj6yak2G1_cFRET4HCKYoEWpy12NGxMpNo8Kr95mv-ZCnAO_LrTQwmCXxL4h/exec
+
+DeviceID: 
+vD1E27E4A7D9EAC1
